@@ -1,0 +1,5 @@
+{
+  "name": "Licznik Piekarski",
+  "description": "Aplikacja mobilna do inwentaryzacji form piekarniczych i den (22cm i 26cm) z możliwością generowania raportów PDF.",
+  "requestFramePermissions": []
+}
